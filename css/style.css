@@ -59,7 +59,7 @@ header .navbar-white {
 	box-shadow:0px 3px 2px 0px rgba(50,50,50,0.1);
 }
 .item.header {
-	background-image:url(../images/homeimg.jpg);
+	background-image:url(../images/forest.png);
 	background-repeat:no-repeat;
 	background-position:0% top;
 	background-size:cover;
@@ -75,7 +75,7 @@ header .navbar-white {
 	color:#fff;
 	z-index:2;
 	position:relative;
-	font-size:75px;
+	font-size:68px;
 	line-height:90px;
 	text-transform:uppercase;
 	padding-top:190px;
@@ -97,6 +97,7 @@ header .navbar-white {
 	font-family:Dosis;
 }
 .subtext-image {
+	font-size: 33px;
 	text-transform:none;
 	font-weight:100 !Important;
 }
